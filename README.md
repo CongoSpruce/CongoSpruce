@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @CongoSpruce
+- 👀 I’m interested in learning C#
+- 🌱 I specialize in VFP 9
+- 📫 How to reach me ... wml@outlook.com
